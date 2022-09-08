@@ -1,0 +1,7 @@
+name: amptk_v1.5.4
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - amptk=1.5.4
